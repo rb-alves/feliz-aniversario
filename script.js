@@ -87,14 +87,14 @@ clickBtn.addEventListener('click', () => {
 
 // Mensagens para o carrossel de texto
 const messages = [
-  "Feliz aniversário, meu amor!",
-  "Você é a luz que ilumina meus dias 💖",
-  "Cada momento ao seu lado é único ✨",
-  "Nossa história é a minha favorita, cheia de risadas e amor.",
-  "Que este novo ciclo traga ainda mais alegria e realizações.",
-  "Te amo mais do que ontem e menos do que amanhã ❤️",
-  "Obrigada por existir e por ser quem você é! 🎉",
-  "E para finalizar, uma surpresa especial para você!" // Última mensagem antes da tela final
+  "Oi, princesa…",
+  "Queria te desejar um feliz aniversário e te dizer o quanto você é especial pra mim.",
+  "Você é uma pessoa incrível, e eu te admiro muito por ser quem você é, apesar de tantas coisas que já aconteceram na sua vida.",
+  "Eu espero que hoje seja um dia muito feliz, não só hoje, mas todos os dias da sua vida, porque, de todas as pessoas que eu conheço e já conheci, você é aquela que mais merece isso.",
+  "Eu sou muito grato por ter te conhecido e por tudo que você faz por mim, mesmo à distância. Espero que, nos próximos anos, possamos comemorar juntos o seu aniversário.",
+  "Hoje, no Dia Internacional da Rawanny, é um dia especial não só pra você, como pra mim também e eu quero que você saiba disso.",
+  "Obrigada por existir e por ser quem você é!",
+  "Ainda bem que sua mãe te fez. É muito daora amar você. 🫶🏻" // Última mensagem antes da tela final
 ];
 
 // Variável para controlar o índice da mensagem atual no carrossel
