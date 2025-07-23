@@ -125,7 +125,6 @@ function renderMessage(index) {
  */
 function updateTimeline(index) {
   const totalMessages = messages.length;
-  // Calcula a porcentagem de preenchimento para a linha do tempo e a posição do botão
   // Ajusta o total de mensagens para que a barra não vá 100% no último item do carrossel,
   // mas sim no penúltimo, para que o último clique seja para a tela final.
   const timelineMaxIndex = totalMessages - 1; // Ajustado para ir até a última mensagem do carrossel
