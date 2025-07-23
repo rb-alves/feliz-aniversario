@@ -133,6 +133,34 @@
   }
 }
 
+.footer-responsive {
+  padding-bottom: 1rem;
+}
+
+@media (max-height: 600px) {
+  .footer-responsive {
+    position: relative;
+    margin-top: auto;
+    padding-bottom: 0.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .footer-responsive {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .footer-responsive p {
+    font-size: 0.9rem;
+  }
+
+  .progress {
+    height: 12px !important;
+    width: 90% !important;
+  }
+}
+
 /* Estilo para a fonte cursiva do carrossel */
 #carouselContent {
     font-family: 'Pacifico', cursive; /* Aplica a nova fonte cursiva */
